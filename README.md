@@ -3,5 +3,15 @@ Measuring business performance is a way to assess your current market, access ne
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/104266403/206895653-9168efb3-ba77-4d2d-8217-91fcebe74554.png)
 
+Business Questions
+
+Which Category is Best Selling and Most Profitable?
+What are the Best Selling and Most Profitable Sub-Category?
+Which is the Top Selling Sub-Category?
+Which Customer Segment is Most Profitable?
+Which is the Preferred Ship Mode?
+Which Region is the Most Profitable?
+Which City has the Highest Number of Sales?
+
 Read Here:
 ### Blog link - https://medium.com/@uqba2199/global-superstore-powerbi-48ff02282d36
